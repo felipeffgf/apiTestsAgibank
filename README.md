@@ -1,13 +1,13 @@
 🧪 Tecnologias utilizadas
 
-Java 11
-Maven
-Rest Assured
-Cucumber JVM
-JUnit
-Allure Framework
+- Java 11
+- Maven
+- Rest Assured
+- Cucumber JVM
+- JUnit
+- Allure Framework
 
- Como executar o projeto pela primeira vez
+Como executar o projeto pela primeira vez
 1 Clonar o repositório
 
 ```
