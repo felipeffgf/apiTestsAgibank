@@ -1,4 +1,4 @@
-🧪 Tecnologias utilizadas
+Tecnologias utilizadas
 
 - Java 11
 - Maven
@@ -7,7 +7,6 @@
 - JUnit
 - Allure Framework
 
-Como executar o projeto pela primeira vez
 1 Clonar o repositório
 
 ```
