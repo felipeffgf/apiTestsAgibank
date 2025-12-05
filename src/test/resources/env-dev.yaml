@@ -1,0 +1,9 @@
+getListaTodasRacas:
+  url: https://dog.ceo/api/breeds/list/all
+
+getImagemAleatoria:
+  url: https://dog.ceo/api/breeds/image/random
+
+getArrayImagensPorRaca:
+  url: https://dog.ceo/api/breed/hound/images
+
